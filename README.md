@@ -186,7 +186,15 @@ INT([Municipality Code] / 1000)
 
 <img width="1312" height="821" alt="スクリーンショット 2026-01-26 113420" src="https://github.com/user-attachments/assets/8a44effd-ef67-4b13-8a09-e985b8387ced" />
 
+#### 練習問題14
 
+航空会社の顧客満足度調査データを使用し、満足度とその内訳を示す次のようなビジュアル表現を作成しましょう。  
+
+・「Class」（クラス）ごとに「Satisfaction」（満足度）の平均を棒グラフで表示  
+・「Satisfaction」は、「Satisfied」（満足）を 1、それ以外を 0 とする  
+・5段階評価された各評価フィールド 14 項目の値の平均を折れ線グラフで重ねて表示  
+
+##### 解答
 
 
 
